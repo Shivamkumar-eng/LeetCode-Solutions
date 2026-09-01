@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
