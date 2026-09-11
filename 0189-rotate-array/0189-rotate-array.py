@@ -8,4 +8,14 @@ class Solution:
         if k == 0:
             return
             
-        nums[:] = nums[-k:] + nums[:-k]
+        def reverse(start: int, end: int) -> None:
+            while start < end:
+                nums[start], nums[end] = nums[end], nums[start]
+                start, end = start + 1, end - 1
+                
+        # Step 1: Reverse the entire array
+        reverse(0, m - 1)
+        # Step 2: Reverse the first k elements
+        reverse(0, k - 1)
+        # Step 3: Reverse the remaining elements
+        reverse(k, m - 1)
