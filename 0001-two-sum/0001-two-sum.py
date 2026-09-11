@@ -1,8 +1,8 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         dic={}
-        for i , num in enumerate(nums):
-            complement=target-num
-            if complement in dic:
-                return [i,dic[complement]]
-            dic[num]=i
+        for i in range(len(nums)):
+            compliment=target-nums[i]
+            if compliment in dic:
+                return [ dic[compliment],i]
+            dic[nums[i]]=i
