@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -183,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
