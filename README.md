@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
