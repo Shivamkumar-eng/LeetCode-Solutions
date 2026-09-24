@@ -1,8 +1,12 @@
 class Solution:
     def twoSum(self, numbers: list[int], target: int) -> list[int]:
-        d={}
-        for i in range(len(numbers)):
-            complement=target-numbers[i]
-            if complement in d:
-                return [d[complement],i+1]
-            d[numbers[i]]=i+1
+        left=0
+        right=len(numbers)-1
+        while left<right:
+            total=numbers[left]+numbers[right]
+            if total==target:
+                return [left+1,right+1]
+            elif total<target:
+                left+=1
+            elif total>target:
+                right-=1
