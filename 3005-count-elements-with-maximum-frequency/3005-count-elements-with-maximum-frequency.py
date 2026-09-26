@@ -1,23 +1,23 @@
 class Solution:
     def maxFrequencyElements(self, nums: List[int]) -> int:
         dic = {}
+        max_freq = 0
+        total_freq = 0
         
-        # Pass 1: Build frequency map
         for num in nums:
+            # 1. Update frequency map without using .get()
             if num in dic:
                 dic[num] += 1
             else:
                 dic[num] = 1
-        
-        # Pass 2: Find the maximum frequency and sum all matching frequencies
-        max_freq = 0
-        total = 0
-        
-        for freq in dic.values():
+            
+            freq = dic[num]
+            
+            # 2. Maintain max frequency and total sum in a single pass
             if freq > max_freq:
                 max_freq = freq
-                total = freq        # Reset total for the new maximum
+                total_freq = freq        # Reset total to current max frequency
             elif freq == max_freq:
-                total += max_freq   # Accumulate total for matching max frequencies
+                total_freq += max_freq  # Add max frequency for tied elements
                 
-        return total
+        return total_freq
