@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -296,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
