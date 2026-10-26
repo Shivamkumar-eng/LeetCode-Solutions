@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0901-online-stock-span) |
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
