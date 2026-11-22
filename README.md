@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -282,12 +283,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0290-word-pattern](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Shivamkumar-eng/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 ## Doubly-Linked List
 |  |
 | ------- |
